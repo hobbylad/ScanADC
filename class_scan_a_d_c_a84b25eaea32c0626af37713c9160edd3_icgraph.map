@@ -1,0 +1,4 @@
+<map id="ScanADC::end" name="ScanADC::end">
+<area shape="rect" id="node1" title="Stops scanning disabling interrupt control." alt="" coords="169,5,276,32"/>
+<area shape="rect" id="node2" href="$class_scan_a_d_c.html#a32a830c35b1e665023fd9145e43c12b6" title="Starts scanning user defined analogue input channnels with the ADC under interrupt control." alt="" coords="5,5,121,32"/>
+</map>

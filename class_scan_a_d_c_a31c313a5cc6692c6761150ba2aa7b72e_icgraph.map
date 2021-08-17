@@ -1,0 +1,4 @@
+<map id="ScanADC::wait_channel" name="ScanADC::wait_channel">
+<area shape="rect" id="node1" title="Waits until a specified user configured channel has been measured." alt="" coords="197,5,359,32"/>
+<area shape="rect" id="node2" href="$class_scan_a_d_c.html#aa742f25553a586182136cbb4a2387faf" title="Waits until all the user configured channels have been measured." alt="" coords="5,5,149,32"/>
+</map>
